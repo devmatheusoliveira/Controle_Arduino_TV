@@ -1,16 +1,19 @@
-# flutter_app
+# Aplicativo em Flutter
 
-A new Flutter project.
+## Para que serve esta parte?
+* Desenvolvido em Flutter esse app é responsável pelas entradas do usuário. Por exemplo, para entrar com o texto que deseja enviar para TV, usando a conexão bluetooth!
+---
 
-## Getting Started
+## Sobre layout:
 
-This project is a starting point for a Flutter application.
+* Barra superior escrito bluetooth app e um botão de ajustes no canto direito
+* Carrossel indicando qual o tipo de teclado deseja selecionar(Ex: Netflix, Youtube...)
+* Entrada de texto
+* botão para enviar 
 
-A few resources to get you started if this is your first Flutter project:
+--
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## RoadMap
+- [ ] Criar um layout minimamente agradável;
+- [ ] Fazer um carrossel com os tipos de teclado
+- [ ] Estabelecer comunicação com o bluetooth;
