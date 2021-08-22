@@ -19,7 +19,7 @@
 
 ## Lembretes importantes
 * Versão da biblioteca: 2.0.1
-* A porta que liga o LED Infravermelho geralmente é o pino digital 3, mas pode variar conforme a placa que estiver usando, consulte a documentação oficial (1)
+* A porta que liga o LED Infravermelho geralmente é o pino digital 3, mas pode variar conforme a placa que estiver usando, consulte a documentação oficial
 * Este código está em versão inicial, por isso pode apresentar alguns bugs
 * Fique a vontade para contribuir com o repositório!
 ---
