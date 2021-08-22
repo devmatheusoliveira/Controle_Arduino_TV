@@ -2,7 +2,6 @@
 
 ## Para que serve esta parte?
 * Desenvolvido em Flutter esse app é responsável pelas entradas do usuário. Por exemplo, para entrar com o texto que deseja enviar para TV, usando a conexão bluetooth!
----
 
 ## Sobre layout:
 
@@ -10,8 +9,6 @@
 * Carrossel indicando qual o tipo de teclado deseja selecionar(Ex: Netflix, Youtube...)
 * Entrada de texto
 * botão para enviar 
-
---
 
 ## RoadMap
 - [ ] Criar um layout minimamente agradável;
