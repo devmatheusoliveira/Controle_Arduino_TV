@@ -5,6 +5,17 @@
 * Ainda está em fases de teste mas tem me deixado bastante satisfeito.
 ---
 
+## Tecnologias utilizadas:
+
+* Sistema embarcado:
+  *  Arduino, 
+  *  Linguagem: C++
+* Aplicativo:
+  *  Framework: Flutter
+  *  Linguagem: Dart
+* Desenho/modelagem do case:
+  *  AutoCad
+  *  Scketchup
 
 ## Materiais utilizados:
 
