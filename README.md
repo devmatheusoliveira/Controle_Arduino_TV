@@ -16,7 +16,7 @@
 * Desenho/modelagem do case:
   *  AutoCad
   *  Scketchup
-
+---
 ## Materiais utilizados:
 
 | Quantidade | Componente | Descrição|
