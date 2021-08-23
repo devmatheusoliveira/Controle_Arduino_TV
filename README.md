@@ -1,5 +1,7 @@
 # Controle seu teclado da SMART TV LG com Arduino
 
+*Atenção, este produto está em fase de teste, por isso não nos responsabilizamos por qualquer dano causado em seus equipamentos*
+
 ## Sobre o projeto:
 * Quem usa Smart TV sabe quão cansativo é digitar alguma coisa usando o controle remoto. Além de demorado, é pouco eficaz. Cansado disso, decidi implementar uma solução usando Arduino. 
 * Ainda está em fases de teste mas tem me deixado bastante satisfeito.
